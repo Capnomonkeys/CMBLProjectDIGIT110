@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiheader>
+        <filedesc>
+            <titleStmt>
+                <title>The Insult That Made a "Jarate Master" Out of Sniper</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>By Valve Corporation. Published May 20th, 2009.</p>
+            </publicationStmt>
+        </filedesc>
+    </teiheader>
+    <panel characters="RED Scout, RED Sniper, BLU Spy" n="1">
+        <balloon type="speech" who="RED Sniper">
+            Hey! We're trying to <emph rendition="b">enjoy</emph> this Capture Point, you bully!
+        </balloon>
+        <balloon type="speech" who="RED Scout">
+            Gravel? What a <emph rendition="i">nuisance!</emph>
+        </balloon>
+        <floatingtext subtype="symbol" type="diagetic">
+            C
+        </floatingtext>
+    </panel>
+</TEI>
