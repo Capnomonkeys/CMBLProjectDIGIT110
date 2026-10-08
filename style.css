@@ -1,0 +1,32 @@
+
+head{
+ 
+}
+
+body {
+
+    background: DimGrey;
+    font-family: "Handjet", Comic-sans, Arial, Helvetica, sans-serif;
+    color: White; 
+}
+
+img{
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+.center{
+    text-align:center;
+    color:Black;
+}
+nav{
+    background:chocolate;
+}
+h3{
+    text-align:center;
+    color:chocolate;
+    
+}
